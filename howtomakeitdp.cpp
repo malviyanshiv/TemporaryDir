@@ -47,6 +47,5 @@ int funDP(string str1,string str2,int l1,int l2)
         cout<<arr[i][j]<<" ";
         cout<<endl;
     }
-    
     return arr[l1][l2];
 }
